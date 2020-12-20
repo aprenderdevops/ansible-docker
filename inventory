@@ -1,0 +1,1 @@
+maqueta-debian9 ansible_host=192.168.50.20 ansible_user=vagrant
